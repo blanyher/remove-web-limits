@@ -7,6 +7,7 @@
 // @name:zh-CN        网页限制解除
 // @name:zh-TW        網頁限制解除
 // @name:ja           ウェブの規制緩和
+// @name:es-MX        Quita limitaciones web
 
 // @description       通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
 // @description:en    Pass to kill most of the site, you can lift the restrictions prohibited to copy, cut, select the text, right-click menu.
@@ -14,6 +15,7 @@
 // @description:zh-CN 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
 // @description:zh-TW 通殺大部分網站，可以解除禁止復制、剪切、選擇文本、右鍵菜單的限制。
 // @description:ja    サイトのほとんどを殺すために渡し、あなたは、コピー切り取り、テキスト、右クリックメニューを選択することは禁止の制限を解除することができます。
+// @description:es-MX Quita la mayoria de bloqueos en los sitios web, podras quitar las restricciones como copiar, cortar, seleccionar texto, menu de click-derecho.
 
 // @homepageURL       https://cat7373.github.io/remove-web-limits/
 // @supportURL        https://github.com/Cat7373/remove-web-limits/issues/
